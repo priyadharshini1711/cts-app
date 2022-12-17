@@ -1,5 +1,5 @@
 
-# CTS Report Card
+# Report Card
 > A MERN Stack Application based out of MySQL
 > Live demo [_here_](https://cts-report-card.netlify.app/). 
 
